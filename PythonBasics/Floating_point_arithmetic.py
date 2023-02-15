@@ -1,4 +1,4 @@
-#Floating point Arithmetic
+#Floating Point Arithmetic
 print(0.125 == 1/10 + 2/100 + 5/1000)
 print(format(1/3, '.20f'))
 

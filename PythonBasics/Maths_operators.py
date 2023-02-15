@@ -1,4 +1,4 @@
-# Maths operators
+# Maths Operators
 print(3 + 2)
 print(4 - 1)
 print(5 * 2)

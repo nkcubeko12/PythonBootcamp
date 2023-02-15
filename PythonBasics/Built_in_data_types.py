@@ -1,3 +1,4 @@
+#Built-in data types
 name = 'Nkcubeko'
 age = 30
 print(age == 30)
